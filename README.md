@@ -46,8 +46,15 @@ O projeto está organizado em três arquivos Python principais:
 O projeto requer as seguintes bibliotecas Python:
 
 ```bash
-pip3 install numpy scipy crcmod
+pip install numpy scipy crcmod
 ```
+```bash
+pip install sounddevice
+```
+```bash
+pip install numpy scipy crcmod sounddevice
+```
+
 
 ## 5. Instruções de Uso (Simulação)
 
