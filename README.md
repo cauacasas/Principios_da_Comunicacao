@@ -4,7 +4,7 @@
 
 Este projeto implementa um sistema completo de modulação e demodulação **Audio Frequency Shift Keying (AFSK)** em banda base, conforme as especificações técnicas da Prática 2 de Princípios de Comunicações. O sistema é capaz de transmitir e receber dados digitais (strings de texto) simulando um canal acústico através de arquivos WAV.
 
-## 1. Especificações Técnicas (Tabela 2 do Documento)
+## 1. Especificações Técnicas 
 
 | Parâmetro | Valor / Descrição |
 | :--- | :--- |
